@@ -1,0 +1,11 @@
+{
+  "name": "next-next-project",
+  "version": "1.0.0",
+  "description": "Practical Project on Next.js and Nest.js full stack app",
+  "main": "index.js",
+  "author": "Marcus Dashe <marcusdashe.developer@gmail.com>",
+  "scripts": {
+    "dev": "npm run dev --parallel"
+  },
+  "license": "MIT"
+}
